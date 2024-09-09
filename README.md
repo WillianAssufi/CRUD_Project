@@ -2,6 +2,7 @@
 
 ----Lista de Import
 
+pip install mysql-connector
 pip install mysql-connector-python
 pip install fastapi
 pip install "fastapi[standard]"
